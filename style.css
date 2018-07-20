@@ -1,0 +1,22 @@
+.card
+{
+    margin-top: 50px;
+    padding: 30px;
+    padding-right:50px;
+    color: rgb(255,255,255);
+}
+#response
+{
+    padding-top: 20px;
+}
+
+#question
+{
+    color: rgb(255,255,255);
+    text-align: center;
+}
+
+body
+{
+    background-image: url('https://springboard-cdn.appadvice.com/apptributes/107698953206945330460/1474370659940_trivia_1368-xl.jpg')
+}
